@@ -1,3 +1,7 @@
+package challenges
+
+import readInput
+
 fun main() {
     fun count(input: List<Int>): Int {
         var count = 0
