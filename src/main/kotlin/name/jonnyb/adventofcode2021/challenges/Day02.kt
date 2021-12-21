@@ -1,4 +1,4 @@
-package challenges
+package name.jonnyb.adventofcode2021.challenges
 
 import readInput
 
